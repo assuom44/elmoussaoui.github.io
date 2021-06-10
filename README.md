@@ -7,4 +7,5 @@ The homepage is organized as follow :
 - Research interests
 - Publications
 - Projects
+- Tutorials
 - Contact
