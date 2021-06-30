@@ -1,38 +1,14 @@
 ## Biography
-
-You can use the [editor on GitHub](https://github.com/assuom44/elmoussaoui.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b>Mohamed EL-MOUSSAOUI</b> holds a Master Degree in Networks and Systems from the Cadi Ayyad University (UCA), Morocco. He is currently working on community detection and data mining topics applied to real-world complex networks. His research interests include Social Network Analysis, Data Mining and Multi-Criteria Decision Making.
 
 ### Research Summary
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Community detection, Complex network analysis and data mining are the key element of my research interest. Further details will be described in the following sections.
 
 ### Publications
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Projects
+The following list represent the all project I've been participated through different subjects.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/assuom44/elmoussaoui.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
+### Contact
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
