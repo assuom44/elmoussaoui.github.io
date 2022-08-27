@@ -3,7 +3,7 @@ Mohamed EL-MOUSSAOUI
 
 ----
 
->  Ph.D. Student trained in data science and social network analysis, with strong communication skills developed from extensive teaching
+>  PhD. Student trained in data science and social network analysis, with strong communication skills developed from extensive teaching
 >  experience and ability to work independently or as part of a team. Special expertise in the following areas: 
 >  * Data Analysis, 
 >  * Data mining and MCDM, 
@@ -14,60 +14,42 @@ Mohamed EL-MOUSSAOUI
 Education
 ---------
 
-2019-2022 (expected)
+2019-2023 (expected)
 :   **PhD, Computer Science**; Chouaib Doukkali University (El Jadida)
 
-    *Thesis title: Community detetcion in Online Social Networks
+    *Thesis title: Community detection in complex real-world networks
 
 2007-2009
 :   **Master degree, Networks and Systems**; Cadi Ayyad University  (Marrakesh)
 
-    *Minor: Awesomeology
 
 2002-2006
 :   **Licence degree, Computer Sciences**; Cadi Ayyad University  (Marrakesh)
-
-    *Minor: Awesomeology
 
 
 Communications:
 --------------------
 
-    * These items can also contain lists, but you need to mind the indentation levels in the markdown source.
-    
-    * Second Item
-    
-    * Third Item
-    
-    * Forth Item
-    
-    * Last Item.
+   * A k-Mean Classification Study of Eight Community Detection Algorithms: Application to Synthetic Social Network Datasets. 
+M El-Moussaoui, M Hanine, A Kartit, T Agouti
+
+   * A Novel Approach of Community Detection Using Association Rules Learning: Application to User’s Friendships of Online Social Networks. 
+M El-Moussaoui, M Hanine, A Kartit, T Agouti
+
+   * A Novel Approach of Community Detection Using Association Rules Learning: Application to User’s Friendships of Online Social Networks. 
+M El-Moussaoui, M Hanine, A Kartit, T Agouti
+
+   * A comprehensive literature review on community detection: Approaches and applications. 
+M El-Moussaoui, T Agouti, A Tikniouine, M El Adnani
     
 Publications:
 --------------------
 
-    * These Items can also contain lists, but you need to mind the indentation levels in the markdown source.
-    
-    * Second Item
-    
-    * Third Item
-    
-    * Forth Item
-    
-    * Last Item.
+    * First paper under publication
 
 Projects
 --------------------
-Some of the projects I made during my profetional career
-:
-
-    * First Item.
-    
-    * Second Item.
-    
-    * First Item.
-    
-    * Second Item.
+(Under Construction)
 
 Languages
 -----------
@@ -86,5 +68,5 @@ Habbits
 
 ----
 
-> <med.elmoussaoui.ced@gmail.com> • +212 (0)66 141 2852 • 38 years old\
-> CA University - Marrakesh, Morocco
+> <med.elmoussaoui.ced@gmail.com> • +212 (0)66 141 2852 •\
+> Chouaib Doukkali University - El Jadida, Morocco
