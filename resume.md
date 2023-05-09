@@ -1,9 +1,9 @@
-Bibiography
------------
-<b>Mohamed EL-MOUSSAOUI</b> held a Master's Degree in Networks and Systems from the Cadi Ayyad Univerity (UCA), Marakesh - Morocco. He has demonstrated a strong commitment to academic excellence and a passion for advancing the fields of community detection and data mining. Currently, he is a PhD researcher engaged in research focused on applying community detection and data mining techniques to real-world complex networks. His doctoral research at Chouaib Doukkali University (UCD) endeavors are driven by a deep curiosity and a desire to unravel the intricate structures and patterns inherent in social networks.
+Personal Summary
+----------------
+<b>Mohamed EL-MOUSSAOUI</b> held a Master's Degree in Networks and Systems from the Cadi Ayyad University (UCA), Marakesh - Morocco. He has demonstrated a strong commitment to academic excellence and a passion for advancing the fields of community detection and data mining. Currently, he is a PhD researcher engaged in research focused on applying community detection and data mining techniques to real-world complex networks. His doctoral research at Chouaib Doukkali University (UCD) endeavors are driven by a deep curiosity and a desire to unravel the intricate structures and patterns inherent in social networks.
 
-Education
----------
+Education Background
+--------------------
 
 2019-2023 (expected)
 :   **PhD, Computer Science**; Chouaib Doukkali University (El Jadida)
