@@ -1,5 +1,6 @@
-## Curriculuim Vitae
-[See Resume details](./resume.md)
+# PhD JOURNAL RESEARCH
+
+### Curriculuim Vitae [here](./resume.md)
 
 ### Research Summary
 My research centers on the interplay between community detection, complex network analysis, and data mining. These interconnected fields are at the heart of my academic pursuits, where I explore their synergistic potential in unraveling the intricate structures and patterns within networks.
