@@ -17,7 +17,7 @@ navbar-links:
 #  About Me: "aboutme"
   Publications: "publications"
   Services: "services"
-  Awards: "awards"
+  #Awards: "awards"
   CV: "cv"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -68,7 +68,7 @@ social-network-links:
   ORCID: 0000-0002-4008-681X
   google-scholar: "citations?user=MmPiOYIAAAAJ&hl"
 #   discord: invite/invite_code or users/userid 
-#   kaggle: yourname
+   kaggle: assuom44
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
