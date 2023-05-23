@@ -15,19 +15,15 @@ I aim to contribute to the advancement of knowledge and pave the way for practic
 
 
 ### Recent Scholar Recommendations
-* Community Detection
+- **Community Detection** \
 Community Detection in Directed Weighted Networks using Voronoi Partitioning (B. Molnár, I.-B. Márton, S. Horvát, M. Ercsey-Ravasz)
-
-* Influence Identification
+- **Influence Identification** \
 Influential nodes identification in complex networks: a comprehensive literature review (K. A. Rai, M. Machkour, J. Antari)
-
-* Information Spreading
+- **Information Spreading** \
 Revealing mechanisms of infectious disease spread through empirical contact networks (P. Sah, M. Otterstatter, S. T. Leu, S. Leviyang, S. Bansal)
-
-* Link prediction
+- **Link prediction** \
 Link Prediction on Complex Networks: An Experimental Survey (H. Wu, C. Song, Y. Ge, T. Ge)
 
 ### Upcoming Event
-* Apr 25, 2023 - Probability and Statistics For Everyone
-* May 10, 2023 - Graphs for Data Science
-* Jun 20, 2023 - Graphs for Data Science
+- Jun 20, 2023 - Graphs for Data Science
+- 
