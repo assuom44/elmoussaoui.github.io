@@ -25,5 +25,6 @@ Revealing mechanisms of infectious disease spread through empirical contact netw
 Link Prediction on Complex Networks: An Experimental Survey (H. Wu, C. Song, Y. Ge, T. Ge)
 
 ### Upcoming Event
-- Jun 20, 2023 - Graphs for Data Science
+- Jun 20, 2023 - [**Graphs for Data Science**](https://click.convertkit-mail2.com/o8um0ke4ppfqhkr2338hv/owhkhwur68zqq2tq/aHR0cHM6Ly9kYXRhNHNjaS5jb20vZGVlcC1sZWFybmluZw==)
+- Jul 18, 2023 - [**Natural Language Processing (NLP) for Everyone**](https://click.convertkit-mail2.com/wvu5z2vrddhgh5wdg0wh7/owhkhwur6o308pcq/aHR0cHM6Ly93d3cuZGF0YTRzY2kuY29tL2xsL1RpbWVzZXJpZXMv)
 - 
