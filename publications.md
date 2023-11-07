@@ -13,4 +13,5 @@ title: Publications
 1. **Technical Program Chair of the International workshop [MACNA 2022](https://sites.google.com/view/macna22/home?authuser=2)** “The first International Workshop on Modeling and Analysis of Complex Networks with Applications”, with collaboration with the conference on Future Networks and Communication. August 9th, 10th and 11th 2022 Niagara Falls, Ontario - Canada.
 
 ### Papers
-1. First journal paper under review.
+1. El-Moussaoui, M., Hanine, M., Kartit, A. et al. [A multi-agent-based approach for community detection using association rules](https://doi.org/10.1007/s41060-023-00470-0). Int J Data Sci Anal (2023).
+2. under progress
