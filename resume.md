@@ -1,6 +1,7 @@
 # Academic Resume
 
 [Mohamed EL-MOUSSAOUI](https://github.com/assuom44/elmoussaoui.github.io/blob/gh-pages/assets/img/Elmoussaoui.jpg)
+<img src="./assets/img/Elmoussaoui.jpg" alt="Your Name's Photo" width="150" height="150">
 
 ### Research Summary
 
