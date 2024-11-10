@@ -3,7 +3,7 @@
 EDUCATION BACKGROUND
 --------------------
 
-2019-2023 (expected)
+2024 (expected)
 :   **PhD, Computer Science**; Chouaib Doukkali University (El Jadida)
 
 2007-2009
@@ -32,8 +32,10 @@ _“The first International Workshop on Modeling and Analysis of Complex Network
 
 JOURNAL PAPERS:
 ---------------
-- Paper 1: Under review
+- Paper 1: A Multi-agent based approach for community detection using association rules
 - Paper 2: Under review
+- Paper 3: Under review
+- Paper 4: Under review
 
 PROJECTS:
 ---------
